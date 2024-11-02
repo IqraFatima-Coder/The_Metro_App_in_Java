@@ -2,9 +2,14 @@
  > *Discrete_Structures_Project*
 
 ## **Project Members**
-### Member 1
-   Name:     Iqra Fatima  
-   Institue: University of Engineering and Technology, Taxila
+   - Name:     Iqra Fatima  
+     Institue: University of Engineering and Technology, Taxila
+   - Name:      
+     Institue: University of Engineering and Technology, Taxila
+   - Name:      
+     Institue: University of Engineering and Technology, Taxila
+   - Name:    
+     Institue: University of Engineering and Technology, Taxila
    
 ## **IDE**
 We are using *Eclipse* IDE for development of this project.

@@ -1,8 +1,9 @@
 # The_Metro_App_in_Java
- Discrete_Structures_Project
+ > *Discrete_Structures_Project*
 
 ## **Project Members**
-1- Name:     Iqra Fatima
+### Member 1
+   Name:     Iqra Fatima  
    Institue: University of Engineering and Technology, Taxila
    
 ## **IDE**

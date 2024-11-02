@@ -1,14 +1,14 @@
 # The_Metro_App_in_Java
- > *Discrete_Structures_Project*
+  *Discrete_Structures_Project*
 
 ## **Project Members**
    - Name:     Iqra Fatima  
      Institue: University of Engineering and Technology, Taxila
-   - Name:      
+   - Name:     Amna Rasib
      Institue: University of Engineering and Technology, Taxila
-   - Name:      
+   - Name:     Hajra Wajid
      Institue: University of Engineering and Technology, Taxila
-   - Name:    
+   - Name:     Sameen Nadeem
      Institue: University of Engineering and Technology, Taxila
    
 ## **IDE**

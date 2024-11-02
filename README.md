@@ -13,19 +13,19 @@ We are using *Eclipse* IDE for development of this project.
  A graph is a collection of nodes (or vertices) connected by edges. In your metro app, each metro station represents a node, and the direct routes (with distances) between them represent edges. This graph structure allows you to model the connections and paths between different metro stations.
 
 ### **Directed Graphs**
-Explanation: In your implementation, the routes between stations can be considered directed, as they have a specific start and end point. For example, if there’s a route from Station A to Station B, it doesn’t necessarily mean there’s a direct route back from B to A. This characteristic allows for a more accurate representation of the metro system.
+In this implementation, the routes between stations can be considered directed, as they have a specific start and end point. For example, if there’s a route from Station A to Station B, it doesn’t necessarily mean there’s a direct route back from B to A. This characteristic allows for a more accurate representation of the metro system.
 
 ### **Weighted Graphs**
-Explanation: The edges in your graph have weights, which in your case are the distances between stations. This allows you to calculate the shortest path based on distance rather than just the number of edges (or stations) traversed.
+The edges in this graph have weights, which in our case are the distances between stations. This allows us to calculate the shortest path based on distance rather than just the number of edges (or stations) traversed.
 
 ### **Dijkstra’s Algorithm**
-Explanation: This algorithm is used to find the shortest path from a starting node to other nodes in a graph. You’ve implemented Dijkstra’s algorithm in your app to calculate the shortest route between the selected start and destination stations based on the distances (weights) assigned to the edges.
+This algorithm is used to find the shortest path from a starting node to other nodes in a graph. You’ve implemented Dijkstra’s algorithm in your app to calculate the shortest route between the selected start and destination stations based on the distances (weights) assigned to the edges.
 
 ### **Data Structures**
-Explanation: You’ve employed various data structures, such as:
+We have employed various data structures, such as:
 HashMap: Used to store stations and their connections (routes), providing efficient lookup times when searching for a specific station.
 Priority Queue: Utilized to manage the nodes during the execution of Dijkstra’s algorithm, ensuring that the node with the smallest distance is processed next.
 
 ### **Lists**
-Explanation: ArrayLists or linked lists may be used to store the routes associated with each station, allowing for dynamic management of the edges connected to each node.
+ArrayLists or linked lists are used to store the routes associated with each station, allowing for dynamic management of the edges connected to each node.
    

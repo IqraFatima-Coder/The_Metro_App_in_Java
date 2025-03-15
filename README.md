@@ -1,5 +1,5 @@
 # The_Metro_App_in_Java
-  *Discrete_Structures_Project*
+Discrete_Structures_Project
 
 ## **Project Members**
    - Name:     Iqra Fatima  
@@ -12,7 +12,7 @@
      Institue: University of Engineering and Technology, Taxila
    
 ## **IDE**
-We are using *Eclipse* IDE for development of this project.
+We are using *Eclipse* IDE for development of this project. We had to develop something using Discrete Structures Concept
 
 ## **Concepts Used in Project**
 - ### **Graphs**
